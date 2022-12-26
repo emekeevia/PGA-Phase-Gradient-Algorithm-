@@ -1,0 +1,4 @@
+/home/ivanemekeev/CLionProjects/PGA/cmake-build-debug/CMakeFiles/extra.dir
+/home/ivanemekeev/CLionProjects/PGA/cmake-build-debug/CMakeFiles/PGA.dir
+/home/ivanemekeev/CLionProjects/PGA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivanemekeev/CLionProjects/PGA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
